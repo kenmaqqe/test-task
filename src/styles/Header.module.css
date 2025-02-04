@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  padding: 29px 30px;
+  max-height: 90px;
+  background-color: #222222;
+  align-items: center;
+}
+.account {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-between;
+  width: 390px;
+  font-size: 15px;
+  font-weight: 400;
+}
+.accountInfo,
+.logOut {
+  display: flex;
+}
+.accountInfo {
+  gap: 10px;
+  max-width: 228px;
+}
+.accountInfo:hover,
+.logOut:hover,
+.logo:hover {
+  cursor: pointer;
+}
+.accountInfo:hover,
+.logOut:hover {
+  text-decoration: underline;
+}
+.logOut {
+  gap: 10px;
+  width: 97px;
+}

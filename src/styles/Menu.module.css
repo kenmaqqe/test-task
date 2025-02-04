@@ -1,0 +1,35 @@
+.menu {
+  min-width: 290px;
+  height: 100vh;
+  background-color: #363f4f;
+}
+.menu ul {
+  list-style-type: none;
+  padding: 0;
+  font-size: 15px;
+  font-weight: 400;
+}
+ul {
+  margin-top: 30px;
+}
+li {
+  padding: 0px 20px 25px 20px;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+li:hover a,
+li:hover span {
+  color: yellow;
+}
+li.active a,
+li.active span {
+  color: yellow;
+}
+.navItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
