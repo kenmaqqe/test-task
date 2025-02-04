@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "../assets/Logo.svg";
 import AccountImg from "../assets/Account.svg";
-import LogOutImg from "../assets/LogOut.svg";
+import LogOutImg from "../assets/Logout.svg";
 import styles from "../styles/Header.module.css";
 
 const Header = () => {
