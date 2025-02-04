@@ -1,8 +1,49 @@
-# React + Vite
+# Проект Test Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Опис
 
-Currently, two official plugins are available:
+Цей проект є тестовим завданням для демонстрації навичок розробки. Він включає базову структуру проекту та приклади коду.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Технології
+
+- **Мова програмування**: JavaScript
+- **Фреймворк**: React
+- **Інструменти**: Vite, Git
+
+## Вимоги
+
+- Node.js 14+
+- Git
+
+## Встановлення та запуск
+
+### Клонування репозиторію
+
+```bash
+git clone https://github.com/yourusername/test-task.git
+cd test-task
+```
+
+### Встановлення залежностей
+
+Встановіть необхідні пакети:
+
+```bash
+npm install
+```
+
+### Запуск додатку
+
+Запустіть додаток локально:
+
+```bash
+npm run dev
+```
+
+## Використання
+
+Відкрийте веб-браузер та перейдіть за адресою `http://localhost:5173` для доступу до додатку.
+
+## Автор
+
+[Тимошенко Дмитро](https://github.com/kenmaqqe)
